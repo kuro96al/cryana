@@ -1,0 +1,357 @@
+[
+  {
+    "symbol": "EUM",
+    "count": 1,
+    "tweet": "1098662436259786752"
+  },
+  {
+    "symbol": "TBOX",
+    "count": 1,
+    "tweet": "1098663532642603014"
+  },
+  {
+    "symbol": "DMME",
+    "count": 5,
+    "tweet": "1098678672188264448"
+  },
+  {
+    "symbol": "TRAC",
+    "count": 1,
+    "tweet": "1098679215053041665"
+  },
+  {
+    "symbol": "TFD",
+    "count": 3,
+    "tweet": "1098679368954626049"
+  },
+  {
+    "symbol": "UBT",
+    "count": 6,
+    "tweet": "1098683378545688577"
+  },
+  {
+    "symbol": "HOT",
+    "count": 6,
+    "tweet": "1098683539044876288"
+  },
+  {
+    "symbol": "ETH",
+    "count": 2,
+    "tweet": "1098684553647001600"
+  },
+  {
+    "symbol": "XORN",
+    "count": 1,
+    "tweet": "1098688885989638144"
+  },
+  {
+    "symbol": "NANO",
+    "count": 1,
+    "tweet": "1098692730920812544"
+  },
+  {
+    "symbol": "CCX",
+    "count": 1,
+    "tweet": "1098696855536291840"
+  },
+  {
+    "symbol": "NOAH",
+    "count": 1,
+    "tweet": "1098699085710671872"
+  },
+  {
+    "symbol": "TOMO",
+    "count": 9,
+    "tweet": "1098707247213928448"
+  },
+  {
+    "symbol": "MAN",
+    "count": 2,
+    "tweet": "1098711449663197185"
+  },
+  {
+    "symbol": "GTM",
+    "count": 1,
+    "tweet": "1098719886967095296"
+  },
+  {
+    "symbol": "GVT",
+    "count": 1,
+    "tweet": "1098724305536516096"
+  },
+  {
+    "symbol": "TRIBE",
+    "count": 2,
+    "tweet": "1098725329974292480"
+  },
+  {
+    "symbol": "BLXS",
+    "count": 1,
+    "tweet": "1098726643374456834"
+  },
+  {
+    "symbol": "WOW",
+    "count": 1,
+    "tweet": "1098734864897953793"
+  },
+  {
+    "symbol": "BTT",
+    "count": 5,
+    "tweet": "1098736175609593856"
+  },
+  {
+    "symbol": "IAN",
+    "count": 1,
+    "tweet": "1098739342837657601"
+  },
+  {
+    "symbol": "LOKI",
+    "count": 1,
+    "tweet": "1098741667870326784"
+  },
+  {
+    "symbol": "UUU",
+    "count": 2,
+    "tweet": "1098745173721243648"
+  },
+  {
+    "symbol": "MWAT",
+    "count": 3,
+    "tweet": "1098746402430083073"
+  },
+  {
+    "symbol": "OCT",
+    "count": 1,
+    "tweet": "1098763169823186945"
+  },
+  {
+    "symbol": "HXRO",
+    "count": 1,
+    "tweet": "1098771803940433920"
+  },
+  {
+    "symbol": "CHX",
+    "count": 1,
+    "tweet": "1098776618837757952"
+  },
+  {
+    "symbol": "NEO",
+    "count": 1,
+    "tweet": "1098783286984347649"
+  },
+  {
+    "symbol": "NASH",
+    "count": 3,
+    "tweet": "1098783946433691649"
+  },
+  {
+    "symbol": "HELP",
+    "count": 2,
+    "tweet": "1098784084250234880"
+  },
+  {
+    "symbol": "LTHN",
+    "count": 1,
+    "tweet": "1098793403288973312"
+  },
+  {
+    "symbol": "BKS",
+    "count": 1,
+    "tweet": "1098801522652078080"
+  },
+  {
+    "symbol": "HYC",
+    "count": 1,
+    "tweet": "1098801549801807872"
+  },
+  {
+    "symbol": "TERA",
+    "count": 1,
+    "tweet": "1098817186821398528"
+  },
+  {
+    "symbol": "FET",
+    "count": 1,
+    "tweet": "1098817589113806848"
+  },
+  {
+    "symbol": "CRYPTO",
+    "count": 1,
+    "tweet": "1098817686908264448"
+  },
+  {
+    "symbol": "BTZC",
+    "count": 1,
+    "tweet": "1098822278870155264"
+  },
+  {
+    "symbol": "ZINC",
+    "count": 1,
+    "tweet": "1098850253355319296"
+  },
+  {
+    "symbol": "IBM",
+    "count": 2,
+    "tweet": "1098851935623544832"
+  },
+  {
+    "symbol": "HRT",
+    "count": 1,
+    "tweet": "1098857807313432576"
+  },
+  {
+    "symbol": "BTC",
+    "count": 7,
+    "tweet": "1098860823911587840"
+  },
+  {
+    "symbol": "BCHABC",
+    "count": 3,
+    "tweet": "1098861780850356225"
+  },
+  {
+    "symbol": "QKC",
+    "count": 1,
+    "tweet": "1098862971378384896"
+  },
+  {
+    "symbol": "IOTA",
+    "count": 1,
+    "tweet": "1098864731534909442"
+  },
+  {
+    "symbol": "VEY",
+    "count": 3,
+    "tweet": "1098894091104989184"
+  },
+  {
+    "symbol": "XOV",
+    "count": 1,
+    "tweet": "1098897309876637697"
+  },
+  {
+    "symbol": "ZEC",
+    "count": 3,
+    "tweet": "1098898608752156672"
+  },
+  {
+    "symbol": "POE",
+    "count": 1,
+    "tweet": "1098899855668379649"
+  },
+  {
+    "symbol": "ELF",
+    "count": 1,
+    "tweet": "1098901785194967040"
+  },
+  {
+    "symbol": "QTUM",
+    "count": 1,
+    "tweet": "1098903731230392320"
+  },
+  {
+    "symbol": "LTO",
+    "count": 1,
+    "tweet": "1098905044206837760"
+  },
+  {
+    "symbol": "ELL",
+    "count": 1,
+    "tweet": "1098905340568133632"
+  },
+  {
+    "symbol": "SELFKEY",
+    "count": 1,
+    "tweet": "1098911754237722626"
+  },
+  {
+    "symbol": "KEY",
+    "count": 2,
+    "tweet": "1098911918654455813"
+  },
+  {
+    "symbol": "SNT",
+    "count": 1,
+    "tweet": "1098919792248012801"
+  },
+  {
+    "symbol": "LSK",
+    "count": 1,
+    "tweet": "1098920533532524544"
+  },
+  {
+    "symbol": "ALIS",
+    "count": 1,
+    "tweet": "1098922533078716416"
+  },
+  {
+    "symbol": "WAVES",
+    "count": 1,
+    "tweet": "1098925067575197701"
+  },
+  {
+    "symbol": "LTCBTC",
+    "count": 1,
+    "tweet": "1098937738320060416"
+  },
+  {
+    "symbol": "WISH",
+    "count": 1,
+    "tweet": "1098968528340770816"
+  },
+  {
+    "symbol": "PBT",
+    "count": 1,
+    "tweet": "1098973302515654657"
+  },
+  {
+    "symbol": "ARK",
+    "count": 1,
+    "tweet": "1098973968869007360"
+  },
+  {
+    "symbol": "AERGO",
+    "count": 1,
+    "tweet": "1098974869000151040"
+  },
+  {
+    "symbol": "JOOS",
+    "count": 1,
+    "tweet": "1098975503434821632"
+  },
+  {
+    "symbol": "BCHSV",
+    "count": 1,
+    "tweet": "1098979735571443714"
+  },
+  {
+    "symbol": "XWP",
+    "count": 1,
+    "tweet": "1098982816853848064"
+  },
+  {
+    "symbol": "POLY",
+    "count": 1,
+    "tweet": "1098993624803672066"
+  },
+  {
+    "symbol": "BMX",
+    "count": 1,
+    "tweet": "1098997680305405953"
+  },
+  {
+    "symbol": "EGEM",
+    "count": 1,
+    "tweet": "1098998304514420737"
+  },
+  {
+    "symbol": "RVN",
+    "count": 1,
+    "tweet": "1099019073105678337"
+  },
+  {
+    "symbol": "ENJ",
+    "count": 1,
+    "tweet": "1099019763261440000"
+  }
+]

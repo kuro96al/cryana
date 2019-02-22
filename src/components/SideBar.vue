@@ -7,7 +7,9 @@
       </template>
       <el-menu-item-group>
         <span slot="title">Charts</span>
-        <el-menu-item index="1-1">Line Chart</el-menu-item>
+        <el-menu-item index="1-1">
+          <router-link to="/ranking" exact>ランキング</router-link>
+        </el-menu-item>
         <el-menu-item index="1-2">
           <router-link to="/charts" exact>売りVS買い</router-link>
         </el-menu-item>

@@ -5,6 +5,7 @@ import locale from 'element-ui/lib/locale/lang/ja'
 import BootstrapVue from 'bootstrap-vue'
 import VueCharts from 'vue-chartjs'
 import { Bar, Line } from 'vue-chartjs'
+
 /* ...there may be other imports here */
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import 'bootstrap/dist/css/bootstrap.css'

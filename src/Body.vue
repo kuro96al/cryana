@@ -2,10 +2,11 @@
     <el-row>
         <top-bar></top-bar>
         <el-col :span="8">
-            <side-bar></side-bar>
+            
         </el-col>
 
-            <router-view></router-view>
+            <router-view>
+            </router-view>
 
     </el-row>
 </template>
